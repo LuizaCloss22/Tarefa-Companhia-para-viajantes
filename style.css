@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 5vh;
+}
+#loading{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#F2594B, #F2F0EB, #91D7F2);
+    top: 0;
+    left: 0;
+}
+#aviaozinho{
+    width: 20%;
+    float: left;
+    margin-left: 40%;
+    margin-top: 20vh;
+}
+#titulo{
+    width: 90%;
+    margin-left: 5%;
+    float: left;
+}
+#carregamento{
+    width: 20%;
+    margin-left: 40%;
+    float: left;
+}
+#content{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(#F2594B, #F2F0EB, #91D7F2, #5196A6);
+    top: 0;
+    left: 0;
+}
+.textodeentrada{
+    color: #F2F0EB;
+    text-align: center;
+    padding-top: 10vh;
+}
+#titulonaprimeirapagina{
+    width: 90%;
+    margin-left: 5%;
+}
+.Botãodeentrada{
+    width: 90%;
+    margin-left: 5%;
+    background-color: #5196A6;
+    height: 7vh;
+    border-radius: 30vh;
+    text-align: center;
+}
+.Botãodeentrada a{
+    color: #F2F0EB;
+    text-decoration: none;
+}
+form input{
+    height: 7vh;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 2vh;
+    border: none;
+    border-radius: 30vh;
+    text-align: center;
+    background-color: #ffffffbb;
+}
+form button{
+    height: 7vh;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 2vh;
+    border: none;
+    border-radius: 30vh;
+    text-align: center;
+
+}
+form .message {
+    font-size: 3vh;
+    margin: 15px 0 0;
+    color: #b3b3b3;
+}
+form .message a {
+    color: #91D7F2;
+    text-decoration: none;
+    font-size: 3vh;
+}
+.User{
+    width: 30%;
+    margin-left: 35%;
+    padding-top: 1vh;
+}
